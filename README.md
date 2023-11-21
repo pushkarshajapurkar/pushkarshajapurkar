@@ -1,4 +1,3 @@
-![logo](https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif)
 <h1 align="center">Hi 👋, I'm Pushkar Shajapurkar</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
