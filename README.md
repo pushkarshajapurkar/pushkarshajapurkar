@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Pushkar Shajapurkar</h1>
-<h3 align="center">A passionate Devops Engineer from India</h3>
+<h3 align="center">Aspiring  Devops Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushkarshajapurkar&label=Profile%20views&color=0e75b6&style=flat" alt="pushkarshajapurkar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pushkar4399" target="blank"><img src="https://img.shields.io/twitter/follow/pushkar4399?logo=twitter&style=for-the-badge" alt="pushkar4399" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DevOps and DevSecOps**
 
 - 💬 Ask me about **DevOps**
 
 - 📫 How to reach me **shajapurkarpushkar@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **Interest in learning new tools and technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
