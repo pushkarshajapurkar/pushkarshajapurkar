@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/pushkar4399" target="blank"><img src="https://img.shields.io/twitter/follow/pushkar4399?logo=twitter&style=for-the-badge" alt="pushkar4399" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps and DevSecOps**
+- 🌱 I’m currently learning **DevSecOps and Cloud DevOps**
 
 - 💬 Ask me about **DevOps**
 
